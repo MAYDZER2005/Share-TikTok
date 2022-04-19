@@ -1,4 +1,4 @@
-1. Ouvrer le "TikTok Share.exe"
+1. Ouvrer le "TikTok Share"
 
 2. Mettez le lien de votre vidéo
 
